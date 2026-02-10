@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "January 2024- November 2025",
+    period: "January 2024 — November 2025",
     role: "Customer Support Specialist",
     company: "Zip Co",
     description:
