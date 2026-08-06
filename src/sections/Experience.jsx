@@ -1,5 +1,25 @@
 const experiences = [
   {
+  period: "February 2026 — August 2026",
+  role: "Technical Support Engineer",
+  company: "WalkMe",
+  description:
+    "Provided technical support for enterprise customers using the WalkMe Digital Adoption Platform. Troubleshot web-based issues involving widgets, SmartTips, Launchers, and platform configurations using browser Developer Tools, HTML, and JavaScript debugging. Analysed customer environments, escalated complex issues to internal teams, and documented solutions to improve support processes and customer experience.",
+  technologies: [
+    "Technical Troubleshooting",
+    "Customer Support",
+    "WalkMe Platform",
+    "Browser Developer Tools",
+    "HTML & CSS",
+    "JavaScript Debugging",
+    "Salesforce Lightning",
+    "SAP Integrations",
+    "Slack",
+    "Office & Google Workspace",
+  ],
+  current: false,
+},
+  {
     period: "January 2024 — November 2025",
     role: "Customer Support Specialist",
     company: "Zip Co",
