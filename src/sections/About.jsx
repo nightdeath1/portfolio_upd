@@ -49,9 +49,7 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a Technical Support Engineer with hands-on experience in
-                diagnosing software, hardware, and network issues, optimizing
-                workflows, and enhancing user experiences.
+                I'm a Technical Support Engineer with hands-on experience in SaaS troubleshooting, web applications, and customer-focused technical solutions.
               </p>
               <p>
                 I have experience with troubleshooting, automation, and system
